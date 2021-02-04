@@ -1,0 +1,72 @@
+{
+  "id": "2364354",
+  "name": "龙果学院",
+  "font_family": "iconfont",
+  "css_prefix_text": "icon-",
+  "description": "",
+  "glyphs": [
+    {
+      "icon_id": "736500",
+      "name": "活动",
+      "font_class": "huodong",
+      "unicode": "e60f",
+      "unicode_decimal": 58895
+    },
+    {
+      "icon_id": "17898096",
+      "name": "用户",
+      "font_class": "yonghu",
+      "unicode": "e68c",
+      "unicode_decimal": 59020
+    },
+    {
+      "icon_id": "1876350",
+      "name": "我的笔记",
+      "font_class": "wodebiji",
+      "unicode": "e679",
+      "unicode_decimal": 59001
+    },
+    {
+      "icon_id": "5543849",
+      "name": "设置",
+      "font_class": "shezhi",
+      "unicode": "e654",
+      "unicode_decimal": 58964
+    },
+    {
+      "icon_id": "18165690",
+      "name": "书籍,图书,阅读,知识",
+      "font_class": "read-full",
+      "unicode": "e89e",
+      "unicode_decimal": 59550
+    },
+    {
+      "icon_id": "1311992",
+      "name": "皇冠",
+      "font_class": "huangguan",
+      "unicode": "e642",
+      "unicode_decimal": 58946
+    },
+    {
+      "icon_id": "17990800",
+      "name": "铃铛",
+      "font_class": "lingdang",
+      "unicode": "e613",
+      "unicode_decimal": 58899
+    },
+    {
+      "icon_id": "11463940",
+      "name": "播放",
+      "font_class": "bofang",
+      "unicode": "e604",
+      "unicode_decimal": 58884
+    },
+    {
+      "icon_id": "551615",
+      "name": "五角星",
+      "font_class": "star_full",
+      "unicode": "e627",
+      "unicode_decimal": 58919
+    }
+  ]
+}

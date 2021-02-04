@@ -1,10 +1,11 @@
 <template>
-    <div id="app">
-        <router-view></router-view>
+    <div>
+        <Program></Program>
     </div>
 </template>
 
 <script>
+import Program from './../components/program'
 export default {
     props: {
 
@@ -18,13 +19,11 @@ export default {
 
     },
     components: {
-
+        Program
     },
 };
 </script>
 
 <style scoped lang="less">
-	#app{
-		width: 100%;
-	}
+
 </style>
