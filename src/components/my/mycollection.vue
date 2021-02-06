@@ -8,7 +8,7 @@
                 开源
             </template>
             <template #cl3>
-                资讯1
+                资讯
             </template>
             <template #dl1>
                 <span class="iconfont icon-read-full"> 暂时没有数据</span>
