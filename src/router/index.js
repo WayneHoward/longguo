@@ -44,6 +44,14 @@ const routes = [
     ]
   },
   {
+    path: '/svip',
+    component: () => import('../views/Svip.vue'),
+  },
+  {
+    path: '/teacher',
+    component: () => import('../views/Teacher.vue'),
+  },
+  {
     path: '/my',
     component: () => import('./../views/My.vue'),
     children: [

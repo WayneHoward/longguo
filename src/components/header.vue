@@ -4,8 +4,8 @@
             <li><img src="./../assets/images/logo.png" alt=""></li>
             <li><router-link to="/home">首页</router-link></li>
             <li><router-link to="/centerclass">课程中心</router-link></li>
-            <li><router-link to="">SVIP会员</router-link></li>
-            <li><router-link to="">讲师招募</router-link></li>
+            <li><router-link to="/svip">SVIP会员</router-link></li>
+            <li><router-link to="/teacher">讲师招募</router-link></li>
             <li><input type="text" placeholder="请输入搜索内容"><img class="search" src="./../assets/images/search.png" alt=""></li>
             <li v-if="isLogin"><router-link to="/reandlo/login">登录</router-link> / <router-link to="/reandlo/register">注册</router-link></li>
             <li v-if="logined" class="logined">
